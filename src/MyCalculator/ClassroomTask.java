@@ -33,7 +33,6 @@ public class ClassroomTask extends Application {
         Button registerButton = new Button("Register");
         buttonLayout.getChildren().addAll(loginButton, registerButton);//tagad ši lataoutam pievieno pogas
 
-
         Scene firstScene = new Scene(vBox, 640, 480);
         firstScene.getStylesheets().add("Style.css");
 
@@ -64,7 +63,6 @@ public class ClassroomTask extends Application {
         Button buttonAdding = new Button("+");
         Button buttonEqual = new Button("=");
         TextField result = new TextField();
-
 
         gridPane.add(button, 0, 3);
         gridPane.add(button1 , 0, 2);
