@@ -1,0 +1,11 @@
+.root{
+-fx-background-color: #FFC0CB
+}
+
+.button{
+-fx-font: 20px "Comic Sans"
+}
+
+#button-enter{
+-fx-background-color: #666666
+}

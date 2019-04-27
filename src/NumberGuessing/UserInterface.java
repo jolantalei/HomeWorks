@@ -26,11 +26,12 @@ public class UserInterface extends Application {
             window = primaryStage;
 
 
-            Text message = new Text("please enter number");
-            Button confirmButton = new Button("confirm");
+            Text message = new Text("Please enter number");
+            Button confirmButton = new Button("Confirm");
+            Button closeButton = new Button("Close");
 
             VBox vBox = new VBox();
-            vBox.getChildren().addAll(message, userGuess, confirmButton);
+            vBox.getChildren().addAll(message, userGuess, confirmButton, closeButton);
 
 
             Scene scene = new Scene(vBox, 640, 480);
