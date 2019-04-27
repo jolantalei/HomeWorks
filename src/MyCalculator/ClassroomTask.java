@@ -1,5 +1,6 @@
+package MyCalculator;
+
 import javafx.application.Application;
-import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
@@ -85,7 +86,7 @@ public class ClassroomTask extends Application {
         gridPane.add(result, 0, 4, 5,5);
 
         Scene scene = new Scene(gridPane, 200, 300);
-        scene.getStylesheets().add("CalculatorStyle.css");
+        scene.getStylesheets().add("MyCalculator/CalculatorStyle.css");
 
 
 
