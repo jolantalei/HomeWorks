@@ -86,8 +86,6 @@ public class ClassroomTask extends Application {
         Scene scene = new Scene(gridPane, 200, 300);
         scene.getStylesheets().add("MyCalculator/CalculatorStyle.css");
 
-
-
         loginButton.setOnAction(event -> {
             window.setScene(scene);
         });
@@ -99,7 +97,6 @@ public class ClassroomTask extends Application {
         logout.setOnAction(event -> {
             window.setScene(firstScene);
         });
-
         window.setScene(firstScene);
         primaryStage.show();
     }
