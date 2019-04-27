@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88469f67-885b-4869-9c80-199c1d4fe914" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberGuessing/NumberGuessingExtra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UILesson2/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UILesson2/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UILesson2/CalculatorStyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UILesson2/NewLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculatorStyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassroomTask.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberGuessing/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberGuessing/UserInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/AlertBoxes.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Authenticator.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/SecondMain.java" beforeDir="false" />
@@ -340,7 +330,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
