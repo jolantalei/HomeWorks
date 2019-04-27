@@ -1,13 +1,9 @@
 import javafx.application.Application;
-import javafx.scene.Node;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
-import javafx.scene.text.Text;
-
-import java.awt.*;
 
 public class Calculator extends Application {
     private Stage window;
@@ -62,7 +58,7 @@ public class Calculator extends Application {
         gridPane.add(result, 0, 4, 5,5);
 
         Scene scene = new Scene(gridPane, 200, 300);
-        scene.getStylesheets().add("CalculatorStyle.css");
+        scene.getStylesheets().add("MyCalculator/CalculatorStyle.css");
         window.setScene(scene);
         window.show();
 
